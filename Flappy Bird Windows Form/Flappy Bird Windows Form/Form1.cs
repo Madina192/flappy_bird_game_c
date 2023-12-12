@@ -17,8 +17,8 @@ namespace Flappy_Bird_Windows_Form
 
         // Variables start here
 
-        int pipeSpeed = 8; // default pipe speed defined with an integer
-        int gravity = 15; // default gravity speed defined with an integer
+        int pipeSpeed = 5; // default pipe speed defined with an integer
+        int gravity = 6; // default gravity speed defined with an integer
         int score = 0; // default score integer set to 0
         // variable ends
 
@@ -96,7 +96,7 @@ namespace Flappy_Bird_Windows_Form
             // if score is greater then 5 then we will increase the pipe speed to 15
             if(score > 5)
             {
-                pipeSpeed = 15;
+                pipeSpeed = 10;
             }
 
         }

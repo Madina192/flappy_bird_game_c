@@ -28,3 +28,13 @@ C:\Users\99655\Source\Repos\flappy_bird_game_c\Flappy Bird Windows Form\Flappy B
 C:\Users\99655\Source\Repos\flappy_bird_game_c\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
 C:\Users\99655\Source\Repos\flappy_bird_game_c\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
 C:\Users\99655\Source\Repos\flappy_bird_game_c\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.AssemblyReference.cache
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.cache
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\Hp\Source\Repos\flappy_bird_game\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
